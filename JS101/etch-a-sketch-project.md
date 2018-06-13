@@ -146,3 +146,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Mike Smith's Solution](https://github.com/MikeSS281986/Etch-a-Sketch) - [View in Browser](https://mikess281986.github.io/Etch-a-Sketch/)
 * [Akash's Solution](https://github.com/Akash-sopho/etch-a-sketch) - [View a Browser](http://htmlpreview.github.io/?https://github.com/Akash-sopho/etch-a-sketch/blob/master/index.html)
 * [Adhithyan's Solution](https://github.com/v-adhithyan/theodinproject/tree/master/etch-a-sketch) - [View in Browser](http://adhithyan.xyz/theodinproject/etch-a-sketch)
+* [Jasmine Wright's Solution](https://github.com/jnwright/etch-a-sketch) - [View in Browser](https://jnwright.github.io/etch-a-sketch/)
